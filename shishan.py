@@ -5,3 +5,5 @@ def a(b):
  except:pass
 x=lambda y:print(a(y))
 if __name__=="__main__":x(500)
+# 毫无意义的改动
+print('我是垃圾')
